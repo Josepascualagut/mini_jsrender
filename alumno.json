@@ -1,0 +1,20 @@
+{
+    "alumnos": [
+        {
+            "nombre": "JP",
+            "apellidos": "tal ycual"
+        },
+        {
+            "nombre": "Manuel",
+            "apellidos": "powerewr"
+        },
+        {
+            "nombre": "Josep",
+            "apellidos": "fdkgjd"
+        },
+        {
+            "nombre": "Carlos",
+            "apellidos": "dssd"
+        }
+    ]
+}
